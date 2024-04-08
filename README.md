@@ -5,7 +5,7 @@
 
 ## About me
 - 🙋🏻‍♂️ Hi, I am Si Qiang Wu, Machine Learning and Computer Vision Engineer from Spain.
-- 🔬 Interested in Data Science, Computer Vision, Machine Learning and Deep Learning, and Generative AI.
+- 🔬 Interested in Data Science, Computer Vision, Machine and Deep Learning, and Generative AI.
 - 💼 Currently I am an Artificial Intelligence and Computer Vision Researcher at ECASP Research Laboratory (Illinois Tech).
 - 📚 Graduate student at Illinois Institute of Technology, Master in Artificial Intelligence, Computer Vision and Control.
 - 📚 Graduate student at the University of the Basque Contry, Master Industrial Engineering.
