@@ -12,7 +12,7 @@
 - 🎓 Graduated from the University of the Basque Contry, Bachelor Industrial Engineering.
 - 💻 I love writing code to contribute to the advancement of AI applications to solve complex real-world problems.
 
-- 📝 [Resume](https://drive.google.com/file/d/1kLCiZr8XgYr6wi09kZZWdbVf5VjeAN_P/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/19qRsp_O_LSYUSwxBy8cFo-7m2fWg32jV/view?usp=sharing)
 
 ## How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-siqiangwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siqiangwu/)](https://www.linkedin.com/in/siqiangwu/)
