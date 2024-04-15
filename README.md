@@ -52,6 +52,7 @@
 <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?&logo=googlecolab&color=525252"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
 <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
 </p>
 
 ## 📊 Stats
